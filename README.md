@@ -22,8 +22,7 @@ selenium kütüphanesi
 requests kütüphanesi
 
 
-## Kurulum
-Kurulum Adımları
+## Kurulum Adımları
 
   Chrome Tarayıcısını Güncelle: chromedriver.exe'yi kullanmak için Chrome tarayıcısını en son sürüme güncellemeniz önemlidir.
 
