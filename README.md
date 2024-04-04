@@ -9,6 +9,8 @@ Bu Python betiği, verilen bir arama terimini kullanarak Google Görseller'den b
 - `save_path`: Görüntülerin kaydedileceği dizin
 
 Örneğin:
+
+
 query = "Alzheimer Brain MRI"
 
 
