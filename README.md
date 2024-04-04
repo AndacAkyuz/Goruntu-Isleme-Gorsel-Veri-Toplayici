@@ -15,7 +15,7 @@ query = "Alzheimer Brain MRI"
 
 num_images = 400
 
-save_path = "normal_brain_mri"
+save_path = "alzheimer_brain_mri"
 
 scrape_images(query, num_images, save_path)
 
