@@ -17,6 +17,8 @@ scrape_images(query, num_images, save_path)
 ## Gereksinimler
 
 selenium kütüphanesi
+
+
 requests kütüphanesi
 
 
